@@ -27,5 +27,5 @@ Berdasarkan hasil evaluasi yang telah dilakukan, model machine learning terbukti
 
 Pendekatan mass marketing memang menghasilkan pendapatan yang lebih tinggi sebesar Rp. 73 juta (12.7%), namun hal tersebut dicapai dengan biaya dan alokasi waktu yang jauh lebih besar, yang dalam praktiknya dapat menjadi kurang efisien terutama bagi institusi dengan keterbatasan sumber daya.
 
-
+Link Streamlit: https://bankmarketingcampaign-gardadisastra.streamlit.app/
 
