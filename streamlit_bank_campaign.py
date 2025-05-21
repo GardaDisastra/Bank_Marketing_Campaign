@@ -56,7 +56,7 @@ if submitted:
     st.write(df_employee)
 
     # Load model
-    with open("C:/purwadhika/Capstone_Modul_3/model_bank_marketing_campaign.sav", "rb") as file:
+    with open("model_bank_marketing_campaign.sav", "rb") as file:
         model_loaded = pickle.load(file)
 
     # Prediksi probabilitas
